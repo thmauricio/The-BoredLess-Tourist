@@ -29,7 +29,7 @@ def find_attractions(destination, interests):
     return attraction_with_interest
 
 def get_attraction_for_traveller(traveler):
-    """Function description"""
+    """This function takes as parameter a traveler and returns a list of attractions based on the traveler's interests and destination"""
     traveler_destination = traveler[1]
     traveler_interests = traveler[2]
     traveler_attractions = find_attractions(traveler_destination, traveler_interests)

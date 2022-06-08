@@ -1,0 +1,1 @@
+This is a project of codecadamy that use knowledge in python and git to make a versioned program in python that suggest for travelers places to visit, based on their interests and travel destination. I've decided to make it a little more complex and also upload this repository to GitHub, using only the command line.
